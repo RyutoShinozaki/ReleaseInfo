@@ -6,5 +6,86 @@
   "development_build": "v4r1b10tmp2",
   "development_exe": "ColAnalyzer_v4r1b10tmp2.exe",
   "development_commit": "d7d68619694d2ebd2333399cedccc6269799edcc",
-  "development_updated": "2026-09-02T15:15:14+09:00"
+  "development_updated": "2026-09-02T15:15:14+09:00",
+  "history": [
+    {
+      "build": "v3r3b2",
+      "exe": "ColAnalyzer_v3r3b2.exe",
+      "installer": "ColAnalyzer_v3r3b2_Installer.exe",
+      "matlab_runtime": "R2022b"
+    },
+    {
+      "build": "v4r0b5",
+      "exe": "ColAnalyzer_v4r0b5.exe",
+      "installer": "ColAnalyzer_v4r0b5_installer.exe",
+      "matlab_runtime": "R2024a"
+    },
+    {
+      "build": "v4r1b0",
+      "exe": "ColAnalyzer_v4r1b0.exe",
+      "installer": "ColAnalyzer_v4r1b0_installer.exe",
+      "matlab_runtime": "R2024b"
+    },
+    {
+      "build": "v4r1b1",
+      "exe": "ColAnalyzer_v4r1b1.exe",
+      "installer": "ColAnalyzer_v4r1b1_installer.exe",
+      "matlab_runtime": "R2024b"
+    },
+    {
+      "build": "v4r1b2",
+      "exe": "ColAnalyzer_v4r1b2.exe",
+      "installer": "ColAnalyzer_v4r1b2_installer.exe",
+      "matlab_runtime": "R2024b"
+    },
+    {
+      "build": "v4r1b3",
+      "exe": "ColAnalyzer_v4r1b3.exe",
+      "installer": "ColAnalyzer_v4r1b3_installer.exe",
+      "matlab_runtime": "R2024b"
+    },
+    {
+      "build": "v4r1b4",
+      "exe": "ColAnalyzer_v4r1b4.exe",
+      "installer": "ColAnalyzer_v4r1b4_installer.exe",
+      "matlab_runtime": "R2024b"
+    },
+    {
+      "build": "v4r1b5",
+      "exe": "ColAnalyzer_v4r1b5.exe",
+      "installer": "ColAnalyzer_v4r1b5_installer.exe",
+      "matlab_runtime": "R2024b"
+    },
+    {
+      "build": "v4r1b6",
+      "exe": "ColAnalyzer_v4r1b6.exe",
+      "installer": "ColAnalyzer_v4r1b6_installer.exe",
+      "matlab_runtime": "R2024b"
+    },
+    {
+      "build": "v4r1b7",
+      "exe": "ColAnalyzer_v4r1b7.exe",
+      "installer": "ColAnalyzer_v4r1b7_installer.exe",
+      "matlab_runtime": "R2024b"
+    },
+    {
+      "build": "v4r1b8",
+      "exe": "ColAnalyzer_v4r1b8.exe",
+      "installer": "ColAnalyzer_v4r1b8_installer.exe",
+      "matlab_runtime": "R2024b"
+    },
+    {
+      "build": "v4r1b9",
+      "exe": "ColAnalyzer_v4r1b9.exe",
+      "installer": "ColAnalyzer_v4r1b9_installer.exe",
+      "matlab_runtime": "R2024b"
+    },
+    {
+      "build": "v4r1b10tmp2",
+      "exe": "ColAnalyzer_v4r1b10tmp2.exe",
+      "installer": "ColAnalyzer_v4r1b10tmp2_installer.exe",
+      "matlab_runtime": "R2024b",
+      "development": true
+    }
+  ]
 }
