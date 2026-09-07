@@ -1,4 +1,9 @@
 {
   "version": "4.1",
-  "build": "v4r1b8"
+  "release_build": "v4r1b9",
+  "release_exe": "ColAnalyzer_v4r1b9.exe",
+  "development_build": "v4r1b10tmp2",
+  "development_exe": "ColAnalyzer_v4r1b10tmp2.exe",
+  "development_commit": "d7d68619694d2ebd2333399cedccc6269799edcc",
+  "development_updated": "2026-09-02T15:15:14+09:00"
 }
